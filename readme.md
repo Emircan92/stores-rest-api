@@ -1,9 +1,10 @@
 # Flask RESTful API 
 
 This is a simple RESTful API developed using the Flask web framework.
-*Users can register and authorize themselves in order to:
-*Create/Read/Update/Delete stores
-*Create/Read/Update/Delete items that belong to a store.
+
+* Users can register and authorize themselves in order to:
+* Create/Read/Update/Delete stores
+* Create/Read/Update/Delete items that belong to a store.
 
 ## Install guide
 
