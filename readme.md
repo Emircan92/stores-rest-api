@@ -22,8 +22,9 @@ $ . venv/bin/activate
 
 ##### Or on Windows cmd::
 ```bash
-    $ py -3 -m venv venv
-    $ venv\Scripts\activate.bat
+$ py -3 -m venv venv
+$ venv\Scripts\activate.bat
+```
 
 ##### Install dependencies
 ```bash
