@@ -6,6 +6,8 @@ This is a simple RESTful API developed using the Flask web framework.
 * Create/Read/Update/Delete stores
 * Create/Read/Update/Delete items that belong to a store.
 
+This app is deployed on Heroku
+* https://storest-rest-api.herokuapp.com/
 ## Install guide
 
 ##### Clone the repo
