@@ -15,5 +15,3 @@ Werkzeug==0.15.1
 <<<<<<< HEAD
 uwsgi
 psycopg2
-=======
->>>>>>> 07b80241b510ed2ebe9dff66c6e9840a0c133706
