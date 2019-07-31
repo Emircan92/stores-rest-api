@@ -24,6 +24,12 @@ api.add_resource(ItemList, '/items')
 api.add_resource(StoreList, '/stores')
 api.add_resource(UserRegister, '/register')
 
+
+@app.route('/docs')
+def docs():
+	return render_template('docs.html')
+	
+
 from db import db
 db.init_app(app)
 
