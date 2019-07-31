@@ -30,8 +30,7 @@ def docs():
 	return render_template('docs.html')
 	
 
-from db import db
-db.init_app(app)
-
 if __name__ == '__main__':
+	from db import db
+	db.init_app(app)
     app.run(port=5000, debug=True) # important to mention debug=True
