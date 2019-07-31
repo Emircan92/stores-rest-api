@@ -8,8 +8,10 @@ This is a simple RESTful API developed using the Flask web framework.
 
 This app is deployed on Heroku
 * https://storest-rest-api.herokuapp.com/
+
 You can find the API Documentation at
 * https://storest-rest-api.herokuapp.com/docs
+
 ## Install guide
 
 ##### Clone the repo
